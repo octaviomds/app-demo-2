@@ -66,3 +66,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+
+
+
+
+<img width="1260" height="986" alt="Capture d’écran 2025-09-18 à 20 48 10" src="https://github.com/user-attachments/assets/b4c33a9f-4986-4630-99fb-0942eb957490" />
+
+
