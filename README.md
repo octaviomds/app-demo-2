@@ -79,5 +79,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 <img width="1260" height="986" alt="Capture d’écran 2025-09-18 à 20 48 10" src="https://github.com/user-attachments/assets/b4c33a9f-4986-4630-99fb-0942eb957490" />
 
 
+![Image 19-09-2025 à 16 37](https://github.com/user-attachments/assets/20d91532-9435-4ec4-a5c0-d5378bc1fad6)
 
 
