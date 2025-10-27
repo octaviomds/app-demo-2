@@ -4,11 +4,12 @@
 demo app :
 https://auth-app-2-tan.vercel.app
 
+containers:
 
 
+![Docker-compose development](https://github.com/user-attachments/assets/6a849a68-616b-4e51-8983-237016cbd6e1)
 
 
-<img width="1260" height="986" alt="Capture d’écran 2025-09-18 à 20 48 10" src="https://github.com/user-attachments/assets/b4c33a9f-4986-4630-99fb-0942eb957490" />
 
 creation roles/users :
 
